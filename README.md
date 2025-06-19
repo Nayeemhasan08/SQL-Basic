@@ -1,5 +1,7 @@
 # 📘 Beginner-Friendly SQL Practice Guide
 
+![Image](https://github.com/user-attachments/assets/543fdb77-e4a3-4b64-b488-c2dd60aa97bd)
+
 Welcome! 👋  
 This repository contains easy-to-follow SQL notes and sample queries perfect for **absolute beginners** who want to learn and practice SQL on their own computer step by step.
 
